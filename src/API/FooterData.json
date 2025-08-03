@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Noida, Uttar Pradesh"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "+919896676340"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "hiteshparmar5411@gmail.com"
+  }
+]

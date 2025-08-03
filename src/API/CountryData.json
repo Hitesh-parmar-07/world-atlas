@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "No Capital",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, with 193 member states in the UN and 2 having observer status officially."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1444216107,
+    "interestingFact": "India is a diverse country known for its heritage, languages, culture, cuisine, festivals, and historic landmarks like the Taj Mahal."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "Egypt is home to the Great Pyramids of Giza, ancient structures built over 4,500 years ago near the fertile Nile River banks."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia features the Great Barrier Reef, famous beaches, unique wildlife, and vibrant cities like Sydney, Melbourne, and Brisbane."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil contains the Amazon Rainforest, which holds millions of species and plays a key role in the planet’s climate and ecology."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "France is known for its art, fashion, cuisine, and the Eiffel Tower, which once stood as the tallest structure in the entire world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the world’s largest country, spanning eleven time zones and stretching from Europe to Asia across vast remote territories."
+  },
+  {
+    "id": 8,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is known for Mount Everest, stunning Himalayan landscapes, rich culture, and spiritual heritage rooted in Hindu and Buddhist faiths."
+  }
+]
