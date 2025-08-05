@@ -137,8 +137,7 @@ nav ul {
 /* Media Queries */
 
 @media screen and (max-width: 998px) {
-
-  .container-card{
+  .container-card {
     margin-top: 65px;
   }
 
@@ -264,7 +263,6 @@ nav ul {
   padding: 40px;
 }
 
-
 .card-title {
   font-weight: 600;
   color: white;
@@ -282,8 +280,6 @@ nav ul {
   font-size: 16px;
   max-width: 470px;
 }
-
-
 
 /* Contact Page */
 
@@ -427,10 +423,10 @@ nav ul {
     border: 0.05rem solid #fff;
     background: linear-gradient(71deg, #080509, #1a171c, #080509);
     border-radius: 5rem;
-    padding: 0.6rem 2.4rem; 
+    padding: 0.6rem 2.4rem;
   }
 
-  .sort-btn{    
+  .sort-btn {
     & button {
       margin-bottom: 10px;
     }
@@ -545,6 +541,22 @@ ul {
 .footer-menu li a {
   font-size: 14px;
   color: #878787;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 600px) {
+  .grid-three-cols {
+    padding-left: 150px;
+  }
+
+  .copyright-text {
+    text-align: center;
+  }
+
+  .footer-menu ul {
+    padding-right: 125px;
+  }
 }
 
 /* Loader */
