@@ -14,7 +14,7 @@ A React-based web application that allows users to explore countries, view their
 ### ℹ️ About Page  
 ![About Page](Screenshot/About.png)
 
-### 🌐 Country Detail Page  
+### 🌐 Country Page  
 ![Country](Screenshot/Country.png)
 
 ---
